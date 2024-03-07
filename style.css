@@ -1,0 +1,100 @@
+
+
+@media all and(max-width:500px)
+{body}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+}
+#mage{
+    width: 50px;
+    height: 70px;
+}
+#image{
+    width: 200px;
+    height: 240px;
+    border-radius: 50%;
+}
+
+
+#images{
+    width: 200px;
+    height: 240px;
+    border-radius: 50%;
+
+}
+
+#container{
+    display: flex;
+    font-size: x-large;
+    
+}
+
+
+#container2{
+    display: flex;
+    font-size: x-large;
+    
+     
+}
+#container3{
+    display: flex;
+    font-size: x-large;
+    display: flex;
+}
+#container4{
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+}
+#container6{
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+    text-align: center;
+}
+#container5{
+    display: flex;
+    font-size: large;
+    
+}
+#imag{
+    width: 40px;
+    height: 50px;
+    display: flex;
+}
+#image2{
+    width: 40px;
+    height: 50px;
+}
+#container7{
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+}
+
+#button{
+    background-color: blue;
+}
+#container8{
+    display: grid;
+    text-align: center;
+    font-size: x-large;
+    
+}
+#ima{
+    width: 200px;
+    height: 250px;
+
+}
+
+#Team{
+ text-align: center; 
+ font-size: x-large;  
+}
+#Testimonials{
+    text-align: center;
+    font-size: x-large;
+}
